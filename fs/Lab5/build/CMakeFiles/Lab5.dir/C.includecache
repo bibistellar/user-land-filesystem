@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stellaris/user-land-filesystem/fs/Lab5/include/Lab5.h
+stdio.h
+/home/stellaris/user-land-filesystem/fs/Lab5/include/stdio.h
+stdlib.h
+/home/stellaris/user-land-filesystem/fs/Lab5/include/stdlib.h
+unistd.h
+-
+fcntl.h
+/home/stellaris/user-land-filesystem/fs/Lab5/include/fcntl.h
+string.h
+/home/stellaris/user-land-filesystem/fs/Lab5/include/string.h
+fuse.h
+/home/stellaris/user-land-filesystem/fs/Lab5/include/fuse.h
+stddef.h
+-
+ddriver.h
+/home/stellaris/user-land-filesystem/fs/Lab5/include/ddriver.h
+errno.h
+/home/stellaris/user-land-filesystem/fs/Lab5/include/errno.h
+types.h
+/home/stellaris/user-land-filesystem/fs/Lab5/include/types.h
+
+/home/stellaris/user-land-filesystem/fs/Lab5/include/ddriver.h
+ddriver_ctl_user.h
+/home/stellaris/user-land-filesystem/fs/Lab5/include/ddriver_ctl_user.h
+stdio.h
+/home/stellaris/user-land-filesystem/fs/Lab5/include/stdio.h
+
+/home/stellaris/user-land-filesystem/fs/Lab5/include/ddriver_ctl_user.h
+sys/ioctl.h
+-
+
+/home/stellaris/user-land-filesystem/fs/Lab5/include/types.h
+
+/home/stellaris/user-land-filesystem/fs/Lab5/src/Lab5.c
+../include/Lab5.h
+/home/stellaris/user-land-filesystem/fs/Lab5/include/Lab5.h
+

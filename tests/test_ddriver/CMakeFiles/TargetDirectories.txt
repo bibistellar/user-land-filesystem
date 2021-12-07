@@ -1,0 +1,3 @@
+/home/stellaris/user-land-filesystem/tests/test_ddriver/CMakeFiles/rebuild_cache.dir
+/home/stellaris/user-land-filesystem/tests/test_ddriver/CMakeFiles/edit_cache.dir
+/home/stellaris/user-land-filesystem/tests/test_ddriver/CMakeFiles/ddriver_test.dir

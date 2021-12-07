@@ -1,0 +1,1 @@
+/usr/bin/cc  -D_FILE_OFFSET_BITS=64 -no-pie  -rdynamic CMakeFiles/Lab5.dir/src/Lab5.c.o  -o Lab5  -lfuse /home/stellaris/lib/libddriver.a 

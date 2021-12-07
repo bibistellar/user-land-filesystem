@@ -12,5 +12,6 @@
         "errno.h": "c",
         "fuse.h": "c",
         "ddriver.h": "c"
-    }
+    },
+    "cmake.configureOnOpen": false
 }

@@ -460,7 +460,7 @@ int main(int argc, char **argv)
 		sfs_usage();
 		fuse_opt_add_arg(&args, "--help");
 		args.argv[0][0] = '\0';
-	}
+	} 
 	
 	ret = fuse_main(args.argc, args.argv, &operations, NULL);
 	fuse_opt_free_args(&args);

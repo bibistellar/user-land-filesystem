@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/stellaris/user-land-filesystem/tests/test_ddriver/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -I/home/stellaris/user-land-filesystem/tests/test_ddriver/./include   -D_FILE_OFFSET_BITS=64 -no-pie -g -Wall --pedantic -g   -o CMakeFiles/ddriver_test.dir/src/test.c.o   -c /home/stellaris/user-land-filesystem/tests/test_ddriver/src/test.c",
+  "file": "/home/stellaris/user-land-filesystem/tests/test_ddriver/src/test.c"
+}
+]

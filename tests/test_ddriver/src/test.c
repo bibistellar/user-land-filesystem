@@ -3,9 +3,10 @@
 
 int main(int argc, char const *argv[])
 {
+    int test;
     int size;
     struct ddriver_state state;
-    int fd = ddriver_open("ddriver");
+    int fd = ddriver_open("/home/stellaris/ddriver");
     if (fd < 0) {
         return -1;
     }
@@ -16,7 +17,8 @@ int main(int argc, char const *argv[])
     if (fd < 0){
         return fd;
     }
-    ddriver_write(fd, buffer, 512);
+    test = ddriver_write(fd, buffer, 512);
+    printf("test:%d\n");
     ddriver_seek(fd, 0, SEEK_SET);
     ddriver_read(fd, rbuffer, 512);
     printf("%s\n", rbuffer);

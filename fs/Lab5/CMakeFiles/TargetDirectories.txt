@@ -1,0 +1,3 @@
+/home/stellaris/user-land-filesystem/fs/Lab5/CMakeFiles/rebuild_cache.dir
+/home/stellaris/user-land-filesystem/fs/Lab5/CMakeFiles/edit_cache.dir
+/home/stellaris/user-land-filesystem/fs/Lab5/CMakeFiles/Lab5.dir

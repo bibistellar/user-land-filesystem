@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/stellaris/user-land-filesystem/fs/Lab5/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -I/home/stellaris/user-land-filesystem/fs/Lab5/./include   -D_FILE_OFFSET_BITS=64 -no-pie -g -Wall --pedantic -g   -o CMakeFiles/Lab5.dir/src/Lab5.c.o   -c /home/stellaris/user-land-filesystem/fs/Lab5/src/Lab5.c",
+  "file": "/home/stellaris/user-land-filesystem/fs/Lab5/src/Lab5.c"
+},
+{
+  "directory": "/home/stellaris/user-land-filesystem/fs/Lab5/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -I/home/stellaris/user-land-filesystem/fs/Lab5/./include   -D_FILE_OFFSET_BITS=64 -no-pie -g -Wall --pedantic -g   -o CMakeFiles/Lab5.dir/src/Lab5_myfucntion.c.o   -c /home/stellaris/user-land-filesystem/fs/Lab5/src/Lab5_myfucntion.c",
+  "file": "/home/stellaris/user-land-filesystem/fs/Lab5/src/Lab5_myfucntion.c"
+}
+]
